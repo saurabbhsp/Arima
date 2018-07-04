@@ -1,4 +1,4 @@
-# Arima
+# Arima for time series prediction
 Autoregressive integrated moving model is the generalized moving average model for time series predictions. A non season Arima has three components p, d, q.
 * p - Specifies the order of time lag.
 * d - Specifies the degree of differencing
